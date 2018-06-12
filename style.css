@@ -9,6 +9,7 @@
 	 text-align: center;
 	 color: white;
 	 border-radius: 15px;
+	 box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 .button {
@@ -23,6 +24,7 @@
    margin: 100px 600px;
     cursor: pointer;
     position: relative;
+
 }
 
 .view {
@@ -37,5 +39,6 @@
   	margin: 1px 380px;
   	width:500px;
   	border-radius: 15px;
+  	box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
     
 }
