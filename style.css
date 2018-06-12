@@ -11,6 +11,18 @@
 	 border-radius: 15px;
 	 box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
+#second_heading {
+  width: 400px;
+  height: 60px;
+   font-family: "Times New Roman", Times, sans-serif;
+   font-size: 40px;
+   font-weight: bold;
+   margin: auto;
+   text-align: center;
+   color: #008080;
+   border-radius: 15px;
+   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 8px 8px rgba(0,0,0,0.23);
+}
 
 .button {
     background-color: #20B2AA;
